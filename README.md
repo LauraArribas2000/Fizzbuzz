@@ -1,5 +1,5 @@
 ## Fizzbuzz
-#Authors
+Authors
 - Laura Arribas
 - Duna Tomas
 - Enaitz Quilez
